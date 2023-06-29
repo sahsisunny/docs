@@ -1,0 +1,18 @@
+{
+    "message": "You have entered the correct keyword",
+    "data": [
+      {
+        "keyword": "cors",
+      "answer": "**Definition** : Cross-origin resource sharing (CORS) is a mechanism that allows restricted resources on a web page to be requested from another domain outside the domain from which the first resource was served.\n **MDN Documentation Link**:https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS\n **RDS Documentation Link** : https://github.com/Real-Dev-Squad/docs/tree/main/docs/dev/https-dev-url-cors#readme"
+      },
+      {
+        "keyword": "api",
+        "answer": "**Definition** : An API (Application Programming Interface) is a set of rules and protocols that allows different software applications to communicate and interact with each other.\n **MDN Documentation Link**:https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction"
+      },
+      {
+        "keyword": "json",
+        "answer": "**Definition** : JSON (JavaScript Object Notation) is a lightweight data-interchange format. It is easy for humans to read and write. It is easy for machines to parse and generate.\n **MDN Documentation Link**:https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON"
+        }
+    ]
+  }
+  
